@@ -1,5 +1,5 @@
 # 💫 About Me:
-#### software developer.
+#### Web developer.
 
 
 ## 🌐 Socials:
