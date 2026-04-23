@@ -1,5 +1,5 @@
 # 💫 About Me:
-#### Web developer.
+### Im a Fullstack developer.
 
 
 ## 🌐 Socials:
